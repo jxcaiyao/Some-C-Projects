@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\dell\source\repos\扫雷\扫雷\main.c(116): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(119): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(157): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(180): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(185): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(224): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(225): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(228): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\扫雷\扫雷\main.c(229): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  acllib.c
+  正在生成代码...
+  扫雷.vcxproj -> C:\Users\Dell\source\repos\扫雷\Debug\扫雷.exe

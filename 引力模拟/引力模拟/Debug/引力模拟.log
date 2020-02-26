@@ -1,0 +1,15 @@
+﻿  acllib.c
+  controller.c
+  model.c
+c:\users\dell\source\repos\引力模拟\引力模拟\model.c(18): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+c:\users\dell\source\repos\引力模拟\引力模拟\model.c(19): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  Setup.c
+  view.c
+c:\users\dell\source\repos\引力模拟\引力模拟\view.c(41): warning C4013: “CoTranX”未定义；假设外部返回 int
+c:\users\dell\source\repos\引力模拟\引力模拟\view.c(41): warning C4013: “CoTranY”未定义；假设外部返回 int
+c:\users\dell\source\repos\引力模拟\引力模拟\view.c(54): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\引力模拟\引力模拟\view.c(84): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+c:\users\dell\source\repos\引力模拟\引力模拟\view.c(89): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+c:\users\dell\source\repos\引力模拟\引力模拟\model.c(186): warning C4715: “DeleteQ”: 不是所有的控件路径都返回值
+  引力模拟.vcxproj -> C:\Users\Dell\source\repos\引力模拟\Debug\引力模拟.exe
