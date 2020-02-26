@@ -1,0 +1,5 @@
+守卫堡垒由蔡曜（学号：3170105066，班级：周一7、8节）制作，源文件在守卫堡垒文件夹中，启动程序在x64\Debug中。
+守卫堡垒使用了acllib.h图形库，游戏框架由模型（model）、显示（view）、控制（controll）组成，这三部分较为独立，互相干扰较少。
+游戏玩法为操控堡垒，躲避敌人飞机的导弹，同时可以获得补给用炮弹攻击敌方，堡垒生存时间越久越好。
+建议浏览程序的顺序：Setup()->timerEvent()->mouseEvent()->setDifficulty()->initialAll()->timerEvnet()->displayAll()
+->decideCrash()->changeAll()->GameOver()->displayAll()->mouseEvent()
